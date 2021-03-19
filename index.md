@@ -55,24 +55,25 @@ Grades will be computed based on the following factors:
 
 | # | Date  | Topic  | scribed note | reading materials  | 
 |----|----|----|----|----|
-| | | **Part I: Statistical Learning Theory** | | |
 | 1 | 3/29 | Introduction  | [lecture1] |  |
-| 2 | 3/31 | Approximation I | [lecture2]  | |
-| 3 | 4/5 | Approximation II | [lecture3]   | |
-| 4 | 4/7 | Approximation III | [lecture4] | |
-| 5 | 4/12 | Rademacher Complexity cont'd | |  |
-|  | 4/14 | Paper presentation | | |
-|  | 4/30 | Paper presentation | | |
-| 6 | 2/4 | Growth Function and VC Dimension | |  |
-| 7 | 2/6 | Sauer’s Lemma and Covering Number | |  |
-| 8 | 2/11 | Chaining and Dudley's Entropy Integral |[lecture8] | |
-| 9 | 2/13 | Generalization Bounds of DNNs I |[lecture9] | |
-| 10 | 2/20 | Generalization Bounds of DNNs II | [lecture10] | |
-| 11 | 2/27 | Paper presentation | | |
-| 12 | 3/4 | Paper presentation | | |
-| 13 | 3/6 | Paper presentation | | |
-| 14 | 3/11 | Paper presentation | | |
-| 15 | 3/13 | Paper presentation | | |
+| 2 | 3/31 | Approximation I | [lecture2]  | CH2 of [T] |
+| 3 | 4/5 | Approximation II | [lecture3]   | CH3 of [T] |
+| 4 | 4/7 | Approximation III | [lecture4] | CH4 of [T] |
+| 5 | 4/12 | Implicit Bias of Gradient Descent I | |  |
+| 6 | 4/14 | Implicit Bias of Gradient Descent II| | |
+| 7 | 4/19 | Implicit Bias of Gradient Descent III | | |
+| 8 | 4/21 | NTK Analysis of DNNs I | |  |
+| 9 | 4/26 | NTK Analysis of DNNs II | |  |
+| 10 | 4/28 | NTK Analysis of DNNs III |[lecture8] | |
+| 11 | 5/3 | Mean Field Analysis of DNNs I |[lecture9] | |
+| 12 | 5/5 | Mean Field Analysis of DNNs II | [lecture10] | |
+| 13 | 5/10 | Mean Field Analysis of DNNs III | | |
+| 14 | 5/12 | Generalization Bounds of DNNs I | | |
+| 15 | 5/17 | Generalization Bounds of DNNs II | | |
+| 16 | 5/24 | Generalization Bounds of DNNs III | | |
+|  | 5/26 | Canceled due to NeurIPS | | |
+| 17 | 5/31 | Benign Overfitting I | | |
+| 18 | 6/2 | Benign Overfitting II | | |
 
 ## Academic Integrity Policy
 
@@ -81,14 +82,14 @@ Students are encouraged to read the [UCLA Student Conduct Code](https://www.dean
 
 ## Lecture Note Scribing
 
-Students are required to scribe one lecture note. The latex template for lecture note will be provided. The scribed lecture notes should be a zip file submitted on CCLE that compiles without errors, and it is due **4 days after the lecture**. This note will be graded. For example, if 2 students are assigned to scribe a given lecture, I expect to receive 2 separate notes. The individual notes are primarily for grading purposes (and also to make sure that each student scribes their own lecture notes), while the final version of the lecture note will be posted on the course website, after being proofread and edited by TA and/or the Instructor. 
+Students are required to scribe one lecture note. The latex template for lecture note will be provided. The scribed lecture notes should be a zip file submitted on CCLE that compiles without errors, and it is due **4 days after the lecture**. This note will be graded. For example, if 2 students are assigned to scribe a given lecture, I expect to receive 2 separate notes. The individual notes are primarily for grading purposes (and also to make sure that each student scribes their own lecture notes), while the final version of the lecture note will be posted on the course website, after being proofread and edited by the Instructor. 
 
 
 ## Paper Presentation
 
 After each lecture, there will be a few recommended readings. Each student is required to select one paper from the list, and prepare a 25 minutes presentation for the class. One paper can only be presented by one student. Students are expected to prepare the slides by themselves, but the original authors' slides are allowed to be used with proper citation. 
 
-Paper presentation sign up is due in the end of 3rd week of the semester. The paper presentation will start on the 5th week.
+The paper presentation will start from week 5.
 
 Both the instructor and other students will grade the presentation (no self-grading). You can check the detailed grading criteria on the [course syllabus](https://www.dropbox.com/s/arxjedzt8frmrkg/syllabus_CS269.pdf?dl=0).
 
