@@ -17,7 +17,7 @@ Two years of college mathematics, including calculus, linear algebra, probabilit
 - Instructor: [Quanquan Gu](http://web.cs.ucla.edu/~qgu/) (Email: qgu at cs dot ucla dot edu)   
 - Office hours: 
     - The instructor's office hour is on Zoom. 
-- Course Website: [https://uclaml.github.io/CS269-Winter2019](https://uclaml.github.io/CS269-Spring2021)
+- Course Website: [https://uclaml.github.io/CS269-Spring2021/](https://uclaml.github.io/CS269-Spring2021)
 - Course Forum: [https://piazza.com/ucla/spring2021/cs269/home](https://piazza.com/ucla/winter2019/cs269/home)
 (If you haven’t already, [sign up here](piazza.com/ucla/spring2021/cs269).)
 
@@ -100,8 +100,7 @@ Students are required to do a project in this class. The goal of the course proj
 
 - A novel and sound solution to an interesting problem
 - Comprehensive literature review and discussion
-- Thorough theoretical/experimental evaluation and comparisons with existing approaches
+- Thorough theoretical analysis of existing deep learning approaches
 
-The best outcome of the project is a manuscript that is publishable in major machine learning conferences (COLT, ICML, NeurIPS, ICLR, AISTATS, UAI etc.) or journals (Journal of Machine Learning Research). **Students cannot use their own published work, or work under review by the end of winter quarter as the course project.**
-Detailed instruction is available [here](https://www.dropbox.com/s/arxjedzt8frmrkg/syllabus_CS269.pdf?dl=0).
+The best outcome of the project is a manuscript that is publishable in major machine learning conferences (COLT, ICML, NeurIPS, ICLR, AISTATS, UAI etc.) or journals (Journal of Machine Learning Research). **Students cannot use their own published work as the course project.**
 
