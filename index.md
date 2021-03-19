@@ -55,25 +55,25 @@ Grades will be computed based on the following factors:
 
 | # | Date  | Topic  | scribed note | reading materials  | 
 |----|----|----|----|----|
-| 1 | 3/29 | Introduction  | [lecture1] |  |
-| 2 | 3/31 | Approximation I | [lecture2]  | CH2 of [T] |
-| 3 | 4/5 | Approximation II | [lecture3]   | CH3 of [T] |
-| 4 | 4/7 | Approximation III | [lecture4] | CH4 of [T] |
-| 5 | 4/12 | Implicit Bias of Gradient Descent I | |  |
-| 6 | 4/14 | Implicit Bias of Gradient Descent II| | |
-| 7 | 4/19 | Implicit Bias of Gradient Descent III | | |
-| 8 | 4/21 | NTK Analysis of DNNs I | |  |
-| 9 | 4/26 | NTK Analysis of DNNs II | |  |
-| 10 | 4/28 | NTK Analysis of DNNs III |[lecture8] | |
-| 11 | 5/3 | Mean Field Analysis of DNNs I |[lecture9] | |
-| 12 | 5/5 | Mean Field Analysis of DNNs II | [lecture10] | |
-| 13 | 5/10 | Mean Field Analysis of DNNs III | | |
-| 14 | 5/12 | Generalization Bounds of DNNs I | | |
-| 15 | 5/17 | Generalization Bounds of DNNs II | | |
-| 16 | 5/24 | Generalization Bounds of DNNs III | | |
+| 1 | 3/29 | Introduction  | [note] |  |
+| 2 | 3/31 | Approximation I | [note]  | CH2 of [T] |
+| 3 | 4/5 | Approximation II | [note]   | CH3 of [T] |
+| 4 | 4/7 | Approximation III | [note] | CH4 of [T] |
+| 5 | 4/12 | Implicit Bias of Gradient Descent I | [note] |  |
+| 6 | 4/14 | Implicit Bias of Gradient Descent II| [note] | |
+| 7 | 4/19 | Implicit Bias of Gradient Descent III | [note] | |
+| 8 | 4/21 | NTK Analysis of DNNs I | [note] |  |
+| 9 | 4/26 | NTK Analysis of DNNs II | [note] |  |
+| 10 | 4/28 | NTK Analysis of DNNs III |[note] | |
+| 11 | 5/3 | Mean Field Analysis of DNNs I |[note] | |
+| 12 | 5/5 | Mean Field Analysis of DNNs II | [note] | |
+| 13 | 5/10 | Mean Field Analysis of DNNs III | [note] | |
+| 14 | 5/12 | Generalization Bounds of DNNs I | [note] | |
+| 15 | 5/17 | Generalization Bounds of DNNs II | [note] | |
+| 16 | 5/24 | Generalization Bounds of DNNs III | [note] | |
 |  | 5/26 | Canceled due to NeurIPS | | |
-| 17 | 5/31 | Benign Overfitting I | | |
-| 18 | 6/2 | Benign Overfitting II | | |
+| 17 | 5/31 | Benign Overfitting I | [note] | |
+| 18 | 6/2 | Benign Overfitting II | [note] | |
 
 ## Academic Integrity Policy
 
