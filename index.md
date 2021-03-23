@@ -46,9 +46,10 @@ There are many other great statistical learning theory courses. To mention a few
  
 Grades will be computed based on the following factors:
 
-- Lecture Note Scribing 30%
-- Paper Presentation 20%
-- Project 50%
+- Lecture Note Scribing 10%
+- Homework 40%
+- Paper Presentation 10%
+- Project 40%
 
 ## Schedule
 
@@ -84,10 +85,16 @@ Students are encouraged to read the [UCLA Student Conduct Code](https://www.dean
 
 Students are required to scribe one lecture note. The latex template for lecture note will be provided. The scribed lecture notes should be a zip file submitted on CCLE that compiles without errors, and it is due **4 days after the lecture**. This note will be graded. For example, if 2 students are assigned to scribe a given lecture, I expect to receive 2 separate notes. The individual notes are primarily for grading purposes (and also to make sure that each student scribes their own lecture notes), while the final version of the lecture note will be posted on the course website, after being proofread and edited by the Instructor. 
 
+## Homework
+
+There will be about 5 homework assignments. The lowest homework score will be dropped. **Homework is required to be written in Latex**. Latex homework template will be provided.
+Unless otherwise indicated, you may talk to other students about the homework problems but each student must hand in their own answers. You also must indicate on each homework with whom you collaborated and cite any other references and sources you use including Internet sites. 
+Homework is worth full credit before the due date. It is worth zero credit after the due date. 
+
 
 ## Paper Presentation
 
-After each lecture, there will be a few recommended readings. Each student is required to select one paper from the list, and prepare a 25 minutes presentation for the class. One paper can only be presented by one student. Students are expected to prepare the slides by themselves, but the original authors' slides are allowed to be used with proper citation. 
+After each lecture, there will be a few recommended readings. Each student is required to select one paper from the list, and prepare a 20 minutes presentation for the class. One paper can only be presented by one student. Students are expected to prepare the slides by themselves, but the original authors' slides are allowed to be used with proper citation. 
 
 The paper presentation will start from week 5.
 
@@ -96,7 +103,7 @@ Both the instructor and other students will grade the presentation (no self-grad
 
 ## Project
 
-Students are required to do a project in this class. The goal of the course project is to provide the students an opportunity to explore research directions in optimization or machine learning. Therefore, the project should be related to the course content. An expected project consists of 
+Students are required to do a project in this class. The goal of the course project is to provide the students an opportunity to explore research directions in optimization or machine learning. Therefore, the project should be related to the course content. An expected project include but not limited to
 
 - A novel and sound solution to an interesting problem
 - Comprehensive literature review and discussion
