@@ -56,7 +56,7 @@ Grades will be computed based on the following factors:
 
 | # | Date  | Topic  | scribed note | reading materials  | 
 |----|----|----|----|----|
-| 1 | 3/29 | Introduction  | [note](https://www.dropbox.com/s/lbk8jqv3b0o2c7j/Lecture%201%20March%2029.pdf?dl=0) |  |
+| 1 | 3/29 | Introduction  | [note](https://www.dropbox.com/s/481ak9zj6bxfcoy/Lecture%201%20March%2029.pdf?dl=0) |  |
 | 2 | 3/31 | Approximation I | [note]  | CH2 of [T] |
 | 3 | 4/5 | Approximation II | [note]   | CH3 of [T] |
 | 4 | 4/7 | Approximation III | [note] | CH4 of [T] |
