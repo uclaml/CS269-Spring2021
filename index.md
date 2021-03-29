@@ -13,7 +13,7 @@ Two years of college mathematics, including calculus, linear algebra, probabilit
 <!--University of California, Los Angeles  -->
 
 - Time: **Monday and Wednesday 2:00PM - 3:50PM**
-- Location: **Zoom**  
+- Location: [**Zoom**](https://ucla.zoom.us/j/93417970178)  
 - Instructor: [Quanquan Gu](http://web.cs.ucla.edu/~qgu/) (Email: qgu at cs dot ucla dot edu)   
 - Office hours: 
     - The instructor's office hour is on Zoom. 
