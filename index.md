@@ -15,11 +15,11 @@ Two years of college mathematics, including calculus, linear algebra, probabilit
 - Time: **Monday and Wednesday 2:00PM - 3:50PM**
 - Location: [**Zoom**](https://ucla.zoom.us/j/93417970178)  
 - Instructor: [Quanquan Gu](http://web.cs.ucla.edu/~qgu/) (Email: qgu at cs dot ucla dot edu)   
-- Office hours: 
-    - The instructor's office hour is on Zoom. 
+- Office hours: **Tuesday 1:00-2:00PM** on [**Zoom**] (https://ucla.zoom.us/j/92449409010). 
 - Course Website: [https://uclaml.github.io/CS269-Spring2021/](https://uclaml.github.io/CS269-Spring2021)
 - Course Forum: [https://piazza.com/ucla/spring2021/cs269/home](https://piazza.com/ucla/winter2019/cs269/home)
 (If you haven’t already, [sign up here](piazza.com/ucla/spring2021/cs269).)
+- Gradescope: 
 
 ## Recommended Textbook
 
