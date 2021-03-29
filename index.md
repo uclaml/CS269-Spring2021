@@ -19,7 +19,7 @@ Two years of college mathematics, including calculus, linear algebra, probabilit
 - Course Website: [https://uclaml.github.io/CS269-Spring2021/](https://uclaml.github.io/CS269-Spring2021)
 - Course Forum: [https://piazza.com/ucla/spring2021/cs269/home](https://piazza.com/ucla/winter2019/cs269/home)
 (If you haven’t already, [sign up here](piazza.com/ucla/spring2021/cs269).)
-- Gradescope: 
+- Gradescope: Entry Code 86D2JJ
 
 ## Recommended Textbook
 
