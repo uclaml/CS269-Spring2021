@@ -71,10 +71,11 @@ Grades will be computed based on the following factors:
 | 13 | 5/10 | Mean Field Analysis of DNNs III | [note] | |
 | 14 | 5/12 | Generalization Bounds of DNNs I | [note] | |
 | 15 | 5/17 | Generalization Bounds of DNNs II | [note] | |
-| 16 | 5/24 | Generalization Bounds of DNNs III | [note] | |
+| 16 | 5/19 | Generalization Bounds of DNNs III | [note] | |
 |  | 5/26 | Canceled due to NeurIPS | | |
-| 17 | 5/31 | Benign Overfitting I | [note] | |
-| 18 | 6/2 | Benign Overfitting II | [note] | |
+| 17 | 5/24 | Benign Overfitting I | [note] | |
+| 18 | 5/31 | Benign Overfitting II | [note] | |
+| 19 | 6/2 | Benign Overfitting III | [note] | |
 
 ## Academic Integrity Policy
 
