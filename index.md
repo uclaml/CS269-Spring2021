@@ -25,13 +25,18 @@ Two years of college mathematics, including calculus, linear algebra, probabilit
 
 There is no required textbook. The following are recommended textbooks:
 
-1. [T] Matus Telgarsky, Deep learning theory lecture note, 2020
-2. [SSBD] Shai Shalev-Shwartz, and Shai Ben-David. Understanding machine learning: From theory to algorithms. Cambridge University Press, 2014. 
-3. [MRT] Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar. Foundations of machine learning. MIT press, 2012. 
-4. [GBCB] Ian Goodfellow, Yoshua Bengio, Aaron Courville, and Yoshua Bengio. Deep learning. Vol. 1. Cambridge: MIT press, 2016.
-5. [ZLLS] Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola, Dive into Deep Learning, 2018.
+1. [T] Matus Telgarsky, [Deep learning theory lecture note](https://mjt.cs.illinois.edu/dlt/index.pdf), 2020
+2. [A] Sanjeev Arora et al., [Theory of Deep learning book draft](https://www.cs.princeton.edu/courses/archive/fall19/cos597B/lecnotes/bookdraft.pdf), 2019
+3. [SSBD] Shai Shalev-Shwartz, and Shai Ben-David. Understanding machine learning: From theory to algorithms. Cambridge University Press, 2014. 
+4. [MRT] Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar. Foundations of machine learning. MIT press, 2012. 
+5. [GBCB] Ian Goodfellow, Yoshua Bengio, Aaron Courville, and Yoshua Bengio. Deep learning. Vol. 1. Cambridge: MIT press, 2016.
+6. [ZLLS] Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola, Dive into Deep Learning, 2018.
 
-There are many other great statistical learning theory courses. To mention a few:
+There are many other great deep learning theory and statistical learning theory courses. To mention a few:
+
+[Matus Telgarsky's deep learning theory course](https://mjt.cs.illinois.edu/dlt/)
+
+[Sanjeev Arora's theoretical deep learning course](https://www.cs.princeton.edu/courses/archive/fall19/cos597B/)
 
 [Peter Bartlett's statistical learning theory course](https://people.eecs.berkeley.edu/~bartlett/courses/281b-sp08/)
 
@@ -39,7 +44,6 @@ There are many other great statistical learning theory courses. To mention a few
 
 [Maxim Raginsky's statistical learning theory course](http://maxim.ece.illinois.edu/teaching/SLT/)
 
-[Matus Telgarsky's deep learning theory course](https://mjt.cs.illinois.edu/dlt/)
 
 
 ## Grading Policy
@@ -54,28 +58,28 @@ Grades will be computed based on the following factors:
 ## Schedule
 
 
-| # | Date  | Topic  | scribed note | reading materials  | 
-|----|----|----|----|----|
-| 1 | 3/29 | Introduction  | [note](https://www.dropbox.com/s/481ak9zj6bxfcoy/Lecture%201%20March%2029.pdf?dl=0) |  |
-| 2 | 3/31 | Approximation I | [note]  | CH2 of [T] |
-| 3 | 4/5 | Approximation II | [note]   | CH3 of [T] |
-| 4 | 4/7 | Approximation III | [note] | CH4 of [T] |
-| 5 | 4/12 | Implicit Bias of Gradient Descent I | [note] |  |
-| 6 | 4/14 | Implicit Bias of Gradient Descent II| [note] | |
-| 7 | 4/19 | Implicit Bias of Gradient Descent III | [note] | |
-| 8 | 4/21 | NTK Analysis of DNNs I | [note] |  |
-| 9 | 4/26 | NTK Analysis of DNNs II | [note] |  |
-| 10 | 4/28 | NTK Analysis of DNNs III |[note] | |
-| 11 | 5/3 | Mean Field Analysis of DNNs I |[note] | |
-| 12 | 5/5 | Mean Field Analysis of DNNs II | [note] | |
-| 13 | 5/10 | Mean Field Analysis of DNNs III | [note] | |
-| 14 | 5/12 | Generalization Bounds of DNNs I | [note] | |
-| 15 | 5/17 | Generalization Bounds of DNNs II | [note] | |
-| 16 | 5/19 | Generalization Bounds of DNNs III | [note] | |
-|  | 5/26 | Canceled due to NeurIPS | | |
-| 17 | 5/24 | Benign Overfitting I | [note] | |
-| 18 | 5/31 | Benign Overfitting II | [note] | |
-| 19 | 6/2 | Benign Overfitting III | [note] | |
+| # | Date  | Topic  | note | scribed note | reading materials  | 
+|----|----|----|----|----|----|
+| 1 | 3/29 | Introduction  | [note](https://www.dropbox.com/s/481ak9zj6bxfcoy/Lecture%201%20March%2029.pdf?dl=0) | | CH0-1 of [T] |
+| 2 | 3/31 | Approximation I | [note](https://www.dropbox.com/s/rw6b28hyen8x1iu/Lecture%202%20March%2031.pdf?dl=0) | | CH2-3 of [T] |
+| 3 | 4/5 | Approximation II | [note] | | CH3-4 of [T] |
+| 4 | 4/7 | Approximation III | [note] |  | CH4-5 of [T] |
+| 5 | 4/12 | Implicit Bias of Gradient Descent I | [note] | | CH6 of [A] |
+| 6 | 4/14 | Implicit Bias of Gradient Descent II| [note] | | CH14 of [T] |
+| 7 | 4/19 | Implicit Bias of Gradient Descent III | [note] | | CH15 of [T] |
+| 8 | 4/21 | NTK Analysis of DNNs I | [note] | |  |
+| 9 | 4/26 | NTK Analysis of DNNs II | [note] | |  |
+| 10 | 4/28 | NTK Analysis of DNNs III |[note] | | |
+| 11 | 5/3 | Mean Field Analysis of DNNs I |[note] | | |
+| 12 | 5/5 | Mean Field Analysis of DNNs II | [note] | | |
+| 13 | 5/10 | Mean Field Analysis of DNNs III | [note] | | |
+| 14 | 5/12 | Generalization Bounds of DNNs I | [note] | | |
+| 15 | 5/17 | Generalization Bounds of DNNs II | [note] | | |
+| 16 | 5/19 | Generalization Bounds of DNNs III | [note] | | |
+|  | 5/26 | Canceled due to NeurIPS | | | |
+| 17 | 5/24 | Benign Overfitting I | [note] | | |
+| 18 | 5/31 | Benign Overfitting II | [note] | | |
+| 19 | 6/2 | Benign Overfitting III | [note] | | |
 
 ## Academic Integrity Policy
 
