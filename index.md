@@ -62,7 +62,7 @@ Grades will be computed based on the following factors:
 |----|----|----|----|----|----|
 | 1 | 3/29 | Introduction  | [note](https://www.dropbox.com/s/481ak9zj6bxfcoy/Lecture%201%20March%2029.pdf?dl=0) | | CH0-1 of [T] |
 | 2 | 3/31 | Approximation I | [note](https://www.dropbox.com/s/rw6b28hyen8x1iu/Lecture%202%20March%2031.pdf?dl=0) | | CH2-3 of [T] |
-| 3 | 4/5 | Approximation II | [note] | | CH3-4 of [T] |
+| 3 | 4/5 | Approximation II | [note](https://www.dropbox.com/s/r0vmou4xvmof8vc/Lecture%203%20April%205.pdf?dl=0) | | CH3-4 of [T] |
 | 4 | 4/7 | Approximation III | [note] |  | CH4-5 of [T] |
 | 5 | 4/12 | Implicit Bias of Gradient Descent I | [note] | | CH6 of [A] |
 | 6 | 4/14 | Implicit Bias of Gradient Descent II| [note] | | CH14 of [T] |
