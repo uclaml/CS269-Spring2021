@@ -58,28 +58,28 @@ Grades will be computed based on the following factors:
 ## Schedule
 
 
-| # | Date  | Topic  | note | scribed note | reading materials  | 
-|----|----|----|----|----|----|
-| 1 | 3/29 | Introduction  | [note](https://www.dropbox.com/s/481ak9zj6bxfcoy/Lecture%201%20March%2029.pdf?dl=0) | | CH0-1 of [T] |
-| 2 | 3/31 | Approximation I | [note](https://www.dropbox.com/s/rw6b28hyen8x1iu/Lecture%202%20March%2031.pdf?dl=0) | | CH2-3 of [T] |
+| # | Date  | Topic  | note | scribed note | reading materials  | homework |
+|----|----|----|----|----|----|----|
+| 1 | 3/29 | Introduction  | [note](https://www.dropbox.com/s/481ak9zj6bxfcoy/Lecture%201%20March%2029.pdf?dl=0) | | CH0-1 of [T] ||
+| 2 | 3/31 | Approximation I | [note](https://www.dropbox.com/s/rw6b28hyen8x1iu/Lecture%202%20March%2031.pdf?dl=0) | | CH2-3 of [T] ||
 | 3 | 4/5 | Approximation II | [note](https://www.dropbox.com/s/r0vmou4xvmof8vc/Lecture%203%20April%205.pdf?dl=0) | | CH3-4 of [T] |
-| 4 | 4/7 | Approximation III | [note] |  | CH4-5 of [T] |
-| 5 | 4/12 | Implicit Bias of Gradient Descent I | [note] | | CH6 of [A] |
-| 6 | 4/14 | Implicit Bias of Gradient Descent II| [note] | | CH14 of [T] |
-| 7 | 4/19 | Implicit Bias of Gradient Descent III | [note] | | CH15 of [T] |
-| 8 | 4/21 | NTK Analysis of DNNs I | [note] | |  |
-| 9 | 4/26 | NTK Analysis of DNNs II | [note] | |  |
-| 10 | 4/28 | NTK Analysis of DNNs III |[note] | | |
-| 11 | 5/3 | Mean Field Analysis of DNNs I |[note] | | |
-| 12 | 5/5 | Mean Field Analysis of DNNs II | [note] | | |
-| 13 | 5/10 | Mean Field Analysis of DNNs III | [note] | | |
-| 14 | 5/12 | Generalization Bounds of DNNs I | [note] | | |
-| 15 | 5/17 | Generalization Bounds of DNNs II | [note] | | |
-| 16 | 5/19 | Generalization Bounds of DNNs III | [note] | | |
-|  | 5/26 | Canceled due to NeurIPS | | | |
-| 17 | 5/24 | Benign Overfitting I | [note] | | |
-| 18 | 5/31 | Benign Overfitting II | [note] | | |
-| 19 | 6/2 | Benign Overfitting III | [note] | | |
+| 4 | 4/7 | Approximation III | [note] |  | CH4-5 of [T] |[HW1](https://www.dropbox.com/s/5a3t6t0b2uqlstb/HW1.pdf?dl=0) out|
+| 5 | 4/12 | Implicit Bias of Gradient Descent I | [note] | | CH6 of [A] ||
+| 6 | 4/14 | Implicit Bias of Gradient Descent II| [note] | | CH14 of [T] ||
+| 7 | 4/19 | Implicit Bias of Gradient Descent III | [note] | | CH15 of [T] |HW1 due, HW2 out|
+| 8 | 4/21 | NTK Analysis of DNNs I | [note] | |  ||
+| 9 | 4/26 | NTK Analysis of DNNs II | [note] | |  ||
+| 10 | 4/28 | NTK Analysis of DNNs III |[note] | | |HW2 due, HW3 out|
+| 11 | 5/3 | Mean Field Analysis of DNNs I |[note] | | ||
+| 12 | 5/5 | Mean Field Analysis of DNNs II | [note] | | ||
+| 13 | 5/10 | Mean Field Analysis of DNNs III | [note] | | |HW3 due, HW4 out|
+| 14 | 5/12 | Generalization Bounds of DNNs I | [note] | | ||
+| 15 | 5/17 | Generalization Bounds of DNNs II | [note] | | ||
+| 16 | 5/19 | Generalization Bounds of DNNs III | [note] | | |HW4 due, HW5 out|
+|  | 5/26 | Canceled due to NeurIPS | | | ||
+| 17 | 5/24 | Benign Overfitting I | [note] | | ||
+| 18 | 5/31 | Benign Overfitting II | [note] | | ||
+| 19 | 6/2 | Benign Overfitting III | [note] | | |HW5 due|
 
 ## Academic Integrity Policy
 
