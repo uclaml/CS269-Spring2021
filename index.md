@@ -63,7 +63,7 @@ Grades will be computed based on the following factors:
 | 1 | 3/29 | Introduction  | [note](https://www.dropbox.com/s/481ak9zj6bxfcoy/Lecture%201%20March%2029.pdf?dl=0) | | CH0-1 of [T] ||
 | 2 | 3/31 | Approximation I | [note](https://www.dropbox.com/s/rw6b28hyen8x1iu/Lecture%202%20March%2031.pdf?dl=0) | | CH2-3 of [T] ||
 | 3 | 4/5 | Approximation II | [note](https://www.dropbox.com/s/r0vmou4xvmof8vc/Lecture%203%20April%205.pdf?dl=0) | | CH3-4 of [T] |
-| 4 | 4/7 | Approximation III | [note] |  | CH4-5 of [T] |[HW1](https://www.dropbox.com/s/5a3t6t0b2uqlstb/HW1.pdf?dl=0) out|
+| 4 | 4/7 | Approximation III | [note](https://www.dropbox.com/s/om7ear4qad28txd/Lecture%204%20April%207.pdf?dl=0) |  | CH4-5 of [T] |[HW1](https://www.dropbox.com/s/5a3t6t0b2uqlstb/HW1.pdf?dl=0) out|
 | 5 | 4/12 | Implicit Bias of Gradient Descent I | [note] | | CH6 of [A] ||
 | 6 | 4/14 | Implicit Bias of Gradient Descent II| [note] | | CH14 of [T] ||
 | 7 | 4/19 | Implicit Bias of Gradient Descent III | [note] | | CH15 of [T] |HW1 due, HW2 out|
@@ -76,8 +76,8 @@ Grades will be computed based on the following factors:
 | 14 | 5/12 | Generalization Bounds of DNNs I | [note] | | ||
 | 15 | 5/17 | Generalization Bounds of DNNs II | [note] | | ||
 | 16 | 5/19 | Generalization Bounds of DNNs III | [note] | | |HW4 due, HW5 out|
-|  | 5/26 | Canceled due to NeurIPS | | | ||
 | 17 | 5/24 | Benign Overfitting I | [note] | | ||
+|  | 5/26 | Canceled due to NeurIPS | | | ||
 | 18 | 5/31 | Benign Overfitting II | [note] | | ||
 | 19 | 6/2 | Benign Overfitting III | [note] | | |HW5 due|
 
@@ -99,6 +99,7 @@ There will be about 5 homework assignments. The lowest homework score will be dr
 Unless otherwise indicated, you may talk to other students about the homework problems but each student must hand in their own answers. You also must indicate on each homework with whom you collaborated and cite any other references and sources you use including Internet sites. 
 Homework is worth full credit before the due date. It is worth zero credit after the due date. 
 
+- The Latex template for homework can be downloaded at [here](https://www.dropbox.com/s/ycilw84s8gijn7m/Homework%20Template.zip?dl=0)
 
 ## Paper Presentation
 
