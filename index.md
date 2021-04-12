@@ -60,7 +60,7 @@ Grades will be computed based on the following factors:
 
 | # | Date  | Topic  | note | scribed note | reading materials  | homework |
 |----|----|----|----|----|----|----|
-| 1 | 3/29 | Introduction  | [note](https://www.dropbox.com/s/481ak9zj6bxfcoy/Lecture%201%20March%2029.pdf?dl=0) | | CH0-1 of [T] ||
+| 1 | 3/29 | Introduction  | [note](https://www.dropbox.com/s/481ak9zj6bxfcoy/Lecture%201%20March%2029.pdf?dl=0) | [scribed note](https://www.dropbox.com/s/nnlmf2eqs2m976s/lecture.pdf?dl=0) | CH0-1 of [T] ||
 | 2 | 3/31 | Approximation I | [note](https://www.dropbox.com/s/rw6b28hyen8x1iu/Lecture%202%20March%2031.pdf?dl=0) | | CH2-3 of [T] ||
 | 3 | 4/5 | Approximation II | [note](https://www.dropbox.com/s/r0vmou4xvmof8vc/Lecture%203%20April%205.pdf?dl=0) | | CH3-4 of [T] |
 | 4 | 4/7 | Approximation III | [note](https://www.dropbox.com/s/om7ear4qad28txd/Lecture%204%20April%207.pdf?dl=0) |  | CH4-5 of [T] |[HW1](https://www.dropbox.com/s/5a3t6t0b2uqlstb/HW1.pdf?dl=0) out|
@@ -73,8 +73,8 @@ Grades will be computed based on the following factors:
 | 11 | 5/3 | Mean Field Analysis of DNNs I |[note] | | ||
 | 12 | 5/5 | Mean Field Analysis of DNNs II | [note] | | ||
 | 13 | 5/10 | Mean Field Analysis of DNNs III | [note] | | |HW3 due, HW4 out|
-| 14 | 5/12 | Generalization Bounds of DNNs I | [note] | | ||
-| 15 | 5/17 | Generalization Bounds of DNNs II | [note] | | ||
+| 14 | 5/12 | Generalization Bounds of DNNs I | [note] | | CH19 of [T] ||
+| 15 | 5/17 | Generalization Bounds of DNNs II | [note] | | CH21 of [T] ||
 | 16 | 5/19 | Generalization Bounds of DNNs III | [note] | | |HW4 due, HW5 out|
 | 17 | 5/24 | Benign Overfitting I | [note] | | ||
 |  | 5/26 | Canceled due to NeurIPS | | | ||
