@@ -64,7 +64,7 @@ Grades will be computed based on the following factors:
 | 2 | 3/31 | Approximation I | [note](https://www.dropbox.com/s/rw6b28hyen8x1iu/Lecture%202%20March%2031.pdf?dl=0) | | CH2-3 of [T] ||
 | 3 | 4/5 | Approximation II | [note](https://www.dropbox.com/s/r0vmou4xvmof8vc/Lecture%203%20April%205.pdf?dl=0) | | CH3-4 of [T] |
 | 4 | 4/7 | Approximation III | [note](https://www.dropbox.com/s/om7ear4qad28txd/Lecture%204%20April%207.pdf?dl=0) |  | CH4-5 of [T] |[HW1](https://www.dropbox.com/s/5a3t6t0b2uqlstb/HW1.pdf?dl=0) out|
-| 5 | 4/12 | Implicit Bias of Gradient Descent I | [note] | | CH6 of [A] ||
+| 5 | 4/12 | Implicit Bias of Gradient Descent I | [note](https://www.dropbox.com/s/17nexzucqiph2qn/Lecture%205%20April%2012.pdf?dl=0) | | CH6 of [A] ||
 | 6 | 4/14 | Implicit Bias of Gradient Descent II| [note] | | CH14 of [T] ||
 | 7 | 4/19 | Implicit Bias of Gradient Descent III | [note] | | CH15 of [T] |HW1 due, HW2 out|
 | 8 | 4/21 | NTK Analysis of DNNs I | [note] | |  ||
