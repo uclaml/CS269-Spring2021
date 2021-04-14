@@ -32,6 +32,15 @@ There is no required textbook. The following are recommended textbooks:
 5. [GBCB] Ian Goodfellow, Yoshua Bengio, Aaron Courville, and Yoshua Bengio. Deep learning. Vol. 1. Cambridge: MIT press, 2016.
 6. [ZLLS] Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola, Dive into Deep Learning, 2018.
 
+## Reference
+
+1. [SHNGS] Soudry, D., Hoffer, E., Nacson, M. S., Gunasekar, S., & Srebro, N. (2018). The implicit bias of gradient descent on separable data. The Journal of Machine Learning Research, 19(1), 2822-2878.
+2. [GLSS] Gunasekar, S., Lee, J., Soudry, D., & Srebro, N. (2018, July). Characterizing implicit bias in terms of optimization geometry. In International Conference on Machine Learning (pp. 1832-1841). PMLR.
+3. [NLGSSS] Nacson, M. S., Lee, J., Gunasekar, S., Savarese, P. H. P., Srebro, N., & Soudry, D. (2019, April). Convergence of gradient descent on separable data. In The 22nd International Conference on Artificial Intelligence and Statistics (pp. 3420-3428). PMLR.	
+
+
+## Relevant Courses
+
 There are many other great deep learning theory and statistical learning theory courses. To mention a few:
 
 [Matus Telgarsky's deep learning theory course](https://mjt.cs.illinois.edu/dlt/)
@@ -64,8 +73,8 @@ Grades will be computed based on the following factors:
 | 2 | 3/31 | Approximation I | [note](https://www.dropbox.com/s/rw6b28hyen8x1iu/Lecture%202%20March%2031.pdf?dl=0) | | CH2-3 of [T] ||
 | 3 | 4/5 | Approximation II | [note](https://www.dropbox.com/s/r0vmou4xvmof8vc/Lecture%203%20April%205.pdf?dl=0) | | CH3-4 of [T] |
 | 4 | 4/7 | Approximation III | [note](https://www.dropbox.com/s/om7ear4qad28txd/Lecture%204%20April%207.pdf?dl=0) |  | CH4-5 of [T] |[HW1](https://www.dropbox.com/s/hn2j0o6oqziwubk/HW1.pdf?dl=0) out|
-| 5 | 4/12 | Implicit Bias of Gradient Descent I | [note](https://www.dropbox.com/s/17nexzucqiph2qn/Lecture%205%20April%2012.pdf?dl=0) | | CH6 of [A] ||
-| 6 | 4/14 | Implicit Bias of Gradient Descent II| [note] | | CH14 of [T] ||
+| 5 | 4/12 | Implicit Bias of Gradient Descent I | [note](https://www.dropbox.com/s/17nexzucqiph2qn/Lecture%205%20April%2012.pdf?dl=0) | | CH6 of [A],[SHNGS] ||
+| 6 | 4/14 | Implicit Bias of Gradient Descent II| [note](https://www.dropbox.com/s/681c19aj09u2j7e/Lecture%206%20April%2014.pdf?dl=0) | | CH6 of [A],[GLSS,NLGSSS] ||
 | 7 | 4/19 | Implicit Bias of Gradient Descent III | [note] | | CH15 of [T] |HW1 due, HW2 out|
 | 8 | 4/21 | NTK Analysis of DNNs I | [note] | |  ||
 | 9 | 4/26 | NTK Analysis of DNNs II | [note] | |  ||
