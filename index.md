@@ -36,7 +36,7 @@ There is no required textbook. The following are recommended textbooks:
 
 1. [SHNGS] Soudry, D., Hoffer, E., Nacson, M. S., Gunasekar, S., & Srebro, N. (2018). The implicit bias of gradient descent on separable data. The Journal of Machine Learning Research, 19(1), 2822-2878.
 2. [GLSS] Gunasekar, S., Lee, J., Soudry, D., & Srebro, N. (2018, July). Characterizing implicit bias in terms of optimization geometry. In International Conference on Machine Learning (pp. 1832-1841). PMLR.
-3. [NLGSSS] Nacson, M. S., Lee, J., Gunasekar, S., Savarese, P. H. P., Srebro, N., & Soudry, D. (2019, April). Convergence of gradient descent on separable data. In The 22nd International Conference on Artificial Intelligence and Statistics (pp. 3420-3428). PMLR.	
+3. [NLGSSS] Nacson, M. S., Lee, J., Gunasekar, S., Savarese, P. H. P., Srebro, N., & Soudry, D. (2019, April). Convergence of gradient descent on separable data. In 22nd International Conference on Artificial Intelligence and Statistics (pp. 3420-3428). PMLR.	
 
 
 ## Relevant Courses
@@ -117,6 +117,15 @@ After each lecture, there will be a few recommended readings. Each student is re
 The paper presentation will start from week 5.
 
 Both the instructor and other students will grade the presentation (no self-grading). We will provide the detailed grading criteria later.
+
+### List of recommended papers:
+
+1. Gunasekar, S., Woodworth, B., Bhojanapalli, S., Neyshabur, B., & Srebro, N. (2018, February). Implicit regularization in matrix factorization. In NeurIPS.
+2. Lyu, K., & Li, J. (2019). Gradient descent maximizes the margin of homogeneous neural networks. In ICLR.
+3. Arora, S., Cohen, N., Hu, W., & Luo, Y. (2019). Implicit regularization in deep matrix factorization. In NeurIPS.
+4. Ji, Z., & Telgarsky, M. (2020). Directional convergence and alignment in deep learning. In NeurIPS.
+5. Woodworth, B., Gunasekar, S., Lee, J. D., Moroshko, E., Savarese, P., Golan, I., ... & Srebro, N. (2020, July). Kernel and rich regimes in overparametrized models. In COLT.
+6. Moroshko, E., Gunasekar, S., Woodworth, B., Lee, J. D., Srebro, N., & Soudry, D. (2020). Implicit bias in deep linear classification: Initialization scale vs training accuracy. In NeurIPS.
 
 
 ## Project
