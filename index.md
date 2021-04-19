@@ -53,9 +53,9 @@ Grades will be computed based on the following factors:
 
 | # | Date  | Topic  | note | scribed note | reading materials  | homework |
 |----|----|----|----|----|----|----|
-| 1 | 3/29 | Introduction  | [note](https://www.dropbox.com/s/481ak9zj6bxfcoy/Lecture%201%20March%2029.pdf?dl=0) | [scribed note](https://www.dropbox.com/s/6y6vftiov3zrizu/Lecture1.pdf?dl=0) | CH0-1 of [T] ||
-| 2 | 3/31 | Approximation I | [note](https://www.dropbox.com/s/rw6b28hyen8x1iu/Lecture%202%20March%2031.pdf?dl=0) | | CH2-3 of [T] ||
-| 3 | 4/5 | Approximation II | [note](https://www.dropbox.com/s/r0vmou4xvmof8vc/Lecture%203%20April%205.pdf?dl=0) | | CH3-4 of [T] |
+| 1 | 3/29 | Introduction  | [note](https://www.dropbox.com/s/481ak9zj6bxfcoy/Lecture%201%20March%2029.pdf?dl=0) | [scribed note](https://www.dropbox.com/sh/dsnk0z7b73544r8/AAABp1oZvkab9fZz7S67M0s0a?dl=0) | CH0-1 of [T] ||
+| 2 | 3/31 | Approximation I | [note](https://www.dropbox.com/s/rw6b28hyen8x1iu/Lecture%202%20March%2031.pdf?dl=0) | [scribed note](https://www.dropbox.com/s/8jg5bltoknz0luf/Lecture2.pdf?dl=0) | CH2-3 of [T] ||
+| 3 | 4/5 | Approximation II | [note](https://www.dropbox.com/s/r0vmou4xvmof8vc/Lecture%203%20April%205.pdf?dl=0) | [scribed note](https://www.dropbox.com/s/uvi3w6s8drz2beh/Lecture3.pdf?dl=0) | CH3-4 of [T] |
 | 4 | 4/7 | Approximation III | [note](https://www.dropbox.com/s/om7ear4qad28txd/Lecture%204%20April%207.pdf?dl=0) |  | CH4-5 of [T] |[HW1](https://www.dropbox.com/s/hn2j0o6oqziwubk/HW1.pdf?dl=0) out|
 | 5 | 4/12 | Implicit Bias of Gradient Descent I | [note](https://www.dropbox.com/s/17nexzucqiph2qn/Lecture%205%20April%2012.pdf?dl=0) | | CH6 of [A],[SHNGS] ||
 | 6 | 4/14 | Implicit Bias of Gradient Descent II| [note](https://www.dropbox.com/s/681c19aj09u2j7e/Lecture%206%20April%2014.pdf?dl=0) | | CH6 of [A],[GLSS,NLGSSS] ||
@@ -104,12 +104,13 @@ Both the instructor and other students will grade the presentation (no self-grad
 
 ### List of recommended papers:
 
-1. Gunasekar, S., Woodworth, B., Bhojanapalli, S., Neyshabur, B., & Srebro, N. (2018, February). Implicit regularization in matrix factorization. In NeurIPS.
-2. Lyu, K., & Li, J. (2019). Gradient descent maximizes the margin of homogeneous neural networks. In ICLR.
-3. Arora, S., Cohen, N., Hu, W., & Luo, Y. (2019). Implicit regularization in deep matrix factorization. In NeurIPS.
-4. Ji, Z., & Telgarsky, M. (2020). Directional convergence and alignment in deep learning. In NeurIPS.
-5. Woodworth, B., Gunasekar, S., Lee, J. D., Moroshko, E., Savarese, P., Golan, I., ... & Srebro, N. (2020, July). Kernel and rich regimes in overparametrized models. In COLT.
-6. Moroshko, E., Gunasekar, S., Woodworth, B., Lee, J. D., Srebro, N., & Soudry, D. (2020). Implicit bias in deep linear classification: Initialization scale vs training accuracy. In NeurIPS.
+1. Eldan, R., & Shamir, O. (2016, June). The power of depth for feedforward neural networks. In COLT.
+2. Gunasekar, S., Woodworth, B., Bhojanapalli, S., Neyshabur, B., & Srebro, N. (2018, February). Implicit regularization in matrix factorization. In NeurIPS.
+3. Lyu, K., & Li, J. (2019). Gradient descent maximizes the margin of homogeneous neural networks. In ICLR.
+4. Arora, S., Cohen, N., Hu, W., & Luo, Y. (2019). Implicit regularization in deep matrix factorization. In NeurIPS.
+5. Ji, Z., & Telgarsky, M. (2020). Directional convergence and alignment in deep learning. In NeurIPS.
+6. Woodworth, B., Gunasekar, S., Lee, J. D., Moroshko, E., Savarese, P., Golan, I., ... & Srebro, N. (2020, July). Kernel and rich regimes in overparametrized models. In COLT.
+7. Moroshko, E., Gunasekar, S., Woodworth, B., Lee, J. D., Srebro, N., & Soudry, D. (2020). Implicit bias in deep linear classification: Initialization scale vs training accuracy. In NeurIPS.
 
 
 ## Project
