@@ -26,7 +26,7 @@ Two years of college mathematics, including calculus, linear algebra, probabilit
 There is no required textbook. The following are recommended textbooks:
 
 1. [T] Matus Telgarsky, [Deep learning theory lecture note](https://mjt.cs.illinois.edu/dlt/index.pdf), 2020
-2. [A] Sanjeev Arora et al., [Theory of Deep learning book draft](https://www.cs.princeton.edu/courses/archive/fall19/cos597B/lecnotes/bookdraft.pdf), 2019
+2. [A] Sanjeev Arora et al., [Theory of Deep learning book draft](https://www.dropbox.com/s/smkp4vasbiszhw4/DLbook.pdf?dl=0), 2019 （Thank you Prof. Sanjeev Arora for sharing the latest version of the book draft!）
 3. [SSBD] Shai Shalev-Shwartz, and Shai Ben-David. Understanding machine learning: From theory to algorithms. Cambridge University Press, 2014. 
 4. [MRT] Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar. Foundations of machine learning. MIT press, 2012. 
 5. [GBCB] Ian Goodfellow, Yoshua Bengio, Aaron Courville, and Yoshua Bengio. Deep learning. Vol. 1. Cambridge: MIT press, 2016.
