@@ -60,16 +60,16 @@ Grades will be computed based on the following factors:
 | 5 | 4/12 | Implicit Bias of Gradient Descent I | [note](https://www.dropbox.com/s/17nexzucqiph2qn/Lecture%205%20April%2012.pdf?dl=0) | | CH6 of [A],[SHNGS] ||
 | 6 | 4/14 | Implicit Bias of Gradient Descent II| [note](https://www.dropbox.com/s/681c19aj09u2j7e/Lecture%206%20April%2014.pdf?dl=0) | | CH6 of [A],[GLSS,NLGSSS] ||
 | 7 | 4/19 | Clarke Subdifferential and Positive Homogeneity | [note](https://www.dropbox.com/s/vldpmpi2wwo14pl/Lecture%207%20April%2019.pdf?dl=0)| | CH14 of [T] |HW1 due|
-| 8 | 4/21 | Implicit Bias of Gradient Descent III | [note](https://www.dropbox.com/s/o6od1cse9y8xhpd/Lecture%208%20April%2021.pdf?dl=0) |  | CH15 of [T] |HW2 out|
+| 8 | 4/21 | Implicit Bias of Gradient Descent III | [note](https://www.dropbox.com/s/o6od1cse9y8xhpd/Lecture%208%20April%2021.pdf?dl=0) |  | CH15 of [T] |[HW2](https://www.dropbox.com/s/oxbpah4u28e3bmx/HW2.pdf?dl=0) out|
 | 9 | 4/26 | NTK Analysis of DNNs I | [note] | |  ||
-| 10 | 4/28 | NTK Analysis of DNNs II |[note] | | |HW2 due, HW3 out|
-| 11 | 5/3 | Mean Field Analysis of DNNs I |[note] | | ||
+| 10 | 4/28 | NTK Analysis of DNNs II |[note] | | ||
+| 11 | 5/3 | Mean Field Analysis of DNNs I |[note] | | |HW2 due, HW3 out|
 | 12 | 5/5 | Mean Field Analysis of DNNs II | [note] | | ||
-| 13 | 5/10 | Mean Field Analysis of DNNs III | [note] | | |HW3 due, HW4 out|
-| 14 | 5/12 | Generalization Bounds of DNNs I | [note] | | CH19 of [T] ||
+| 13 | 5/10 | Mean Field Analysis of DNNs III | [note] | | ||
+| 14 | 5/12 | Generalization Bounds of DNNs I | [note] | | CH19 of [T] |HW3 due, HW4 out|
 | 15 | 5/17 | Generalization Bounds of DNNs II | [note] | | CH21 of [T] ||
-| 16 | 5/19 | Generalization Bounds of DNNs III | [note] | | |HW4 due, HW5 out|
-| 17 | 5/24 | Benign Overfitting I | [note] | | ||
+| 16 | 5/19 | Generalization Bounds of DNNs III | [note] | | ||
+| 17 | 5/24 | Benign Overfitting I | [note] | | |HW4 due, HW5 out|
 |  | 5/26 | Canceled due to NeurIPS | | | ||
 | 18 | 5/31 | Benign Overfitting II | [note] | | ||
 | 19 | 6/2 | Benign Overfitting III | [note] | | |HW5 due|
@@ -90,7 +90,7 @@ Students are required to scribe one lecture note. The latex template for lecture
 
 There will be about 5 homework assignments. The lowest homework score will be dropped. **Homework is required to be written in Latex**. Latex homework template will be provided.
 Unless otherwise indicated, you may talk to other students about the homework problems but each student must hand in their own answers. You also must indicate on each homework with whom you collaborated and cite any other references and sources you use including Internet sites. 
-Homework is worth full credit before the due date. It is worth zero credit after the due date. 
+Homework is worth full credit before the due time. It is worth zero credit after the due time. 
 
 - The Latex template for homework can be downloaded at [here](https://www.dropbox.com/s/ycilw84s8gijn7m/Homework%20Template.zip?dl=0)
 
