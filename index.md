@@ -57,11 +57,11 @@ Grades will be computed based on the following factors:
 | 2 | 3/31 | Approximation I | [note](https://www.dropbox.com/s/rw6b28hyen8x1iu/Lecture%202%20March%2031.pdf?dl=0) | [scribed note](https://www.dropbox.com/s/8jg5bltoknz0luf/Lecture2.pdf?dl=0) | CH2-3 of [T] ||
 | 3 | 4/5 | Approximation II | [note](https://www.dropbox.com/s/r0vmou4xvmof8vc/Lecture%203%20April%205.pdf?dl=0) | [scribed note](https://www.dropbox.com/s/uvi3w6s8drz2beh/Lecture3.pdf?dl=0) | CH3-4 of [T] |
 | 4 | 4/7 | Approximation III | [note](https://www.dropbox.com/s/om7ear4qad28txd/Lecture%204%20April%207.pdf?dl=0) |  | CH4-5 of [T] |[HW1](https://www.dropbox.com/s/hn2j0o6oqziwubk/HW1.pdf?dl=0) out|
-| 5 | 4/12 | Implicit Bias of Gradient Descent I | [note](https://www.dropbox.com/s/17nexzucqiph2qn/Lecture%205%20April%2012.pdf?dl=0) | | CH6 of [A],[SHNGS] ||
-| 6 | 4/14 | Implicit Bias of Gradient Descent II| [note](https://www.dropbox.com/s/681c19aj09u2j7e/Lecture%206%20April%2014.pdf?dl=0) | | CH6 of [A],[GLSS,NLGSSS] ||
+| 5 | 4/12 | Implicit Bias of Gradient Descent I | [note](https://www.dropbox.com/s/17nexzucqiph2qn/Lecture%205%20April%2012.pdf?dl=0) | | CH9 of [A],[SHNGS] ||
+| 6 | 4/14 | Implicit Bias of Gradient Descent II| [note](https://www.dropbox.com/s/681c19aj09u2j7e/Lecture%206%20April%2014.pdf?dl=0) | | CH9 of [A],[GLSS,NLGSSS] ||
 | 7 | 4/19 | Clarke Subdifferential and Positive Homogeneity | [note](https://www.dropbox.com/s/vldpmpi2wwo14pl/Lecture%207%20April%2019.pdf?dl=0)| | CH14 of [T] |HW1 due|
 | 8 | 4/21 | Implicit Bias of Gradient Descent III | [note](https://www.dropbox.com/s/o6od1cse9y8xhpd/Lecture%208%20April%2021.pdf?dl=0) |  | CH15 of [T] |[HW2](https://www.dropbox.com/s/oxbpah4u28e3bmx/HW2.pdf?dl=0) out|
-| 9 | 4/26 | NTK Analysis of DNNs I | [note] | |  ||
+| 9 | 4/26 | NTK Analysis of DNNs I | [note](https://www.dropbox.com/s/m2pw57tfshql3un/Lecture%209%20April%2026.pdf?dl=0) | | CH10 [A] ||
 | 10 | 4/28 | NTK Analysis of DNNs II |[note] | | ||
 | 11 | 5/3 | Mean Field Analysis of DNNs I |[note] | | |HW2 due, HW3 out|
 | 12 | 5/5 | Mean Field Analysis of DNNs II | [note] | | ||
