@@ -61,7 +61,7 @@ Grades will be computed based on the following factors:
 | 6 | 4/14 | Implicit Bias of Gradient Descent II| [note](https://www.dropbox.com/s/681c19aj09u2j7e/Lecture%206%20April%2014.pdf?dl=0) | | CH9 of [A],[GLSS,NLGSSS] ||
 | 7 | 4/19 | Clarke Subdifferential and Positive Homogeneity | [note](https://www.dropbox.com/s/vldpmpi2wwo14pl/Lecture%207%20April%2019.pdf?dl=0)| | CH14 of [T] |HW1 due|
 | 8 | 4/21 | Implicit Bias of Gradient Descent III | [note](https://www.dropbox.com/s/o6od1cse9y8xhpd/Lecture%208%20April%2021.pdf?dl=0) |  | CH15 of [T] |[HW2](https://www.dropbox.com/s/oxbpah4u28e3bmx/HW2.pdf?dl=0) out|
-| 9 | 4/26 | NTK Analysis of DNNs I | [note](https://www.dropbox.com/s/m2pw57tfshql3un/Lecture%209%20April%2026.pdf?dl=0) | | CH10 [A] ||
+| 9 | 4/26 | NTK Analysis of DNNs I | [note](https://www.dropbox.com/s/sptoel3owc12pvw/Lecture%209%20April%2026.pdf?dl=0) | | CH10 [A] ||
 | 10 | 4/28 | NTK Analysis of DNNs II |[note] | | ||
 | 11 | 5/3 | Mean Field Analysis of DNNs I |[note] | | |HW2 due, HW3 out|
 | 12 | 5/5 | Mean Field Analysis of DNNs II | [note] | | ||
