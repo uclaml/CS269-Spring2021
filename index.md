@@ -62,13 +62,13 @@ Grades will be computed based on the following factors:
 | 7 | 4/19 | Clarke Subdifferential and Positive Homogeneity | [note](https://www.dropbox.com/s/vldpmpi2wwo14pl/Lecture%207%20April%2019.pdf?dl=0)| | CH14 of [T] |HW1 due|
 | 8 | 4/21 | Implicit Bias of Gradient Descent III | [note](https://www.dropbox.com/s/o6od1cse9y8xhpd/Lecture%208%20April%2021.pdf?dl=0) |  | CH15 of [T] |[HW2](https://www.dropbox.com/s/oxbpah4u28e3bmx/HW2.pdf?dl=0) out|
 | 9 | 4/26 | NTK Analysis of DNNs I | [note](https://www.dropbox.com/s/sptoel3owc12pvw/Lecture%209%20April%2026.pdf?dl=0) | | CH10 [A] ||
-| 10 | 4/28 | NTK Analysis of DNNs II |[note] | | ||
-| 11 | 5/3 | Mean Field Analysis of DNNs I |[note] | | |HW2 due, HW3 out|
-| 12 | 5/5 | Mean Field Analysis of DNNs II | [note] | | ||
-| 13 | 5/10 | Mean Field Analysis of DNNs III | [note] | | ||
-| 14 | 5/12 | Generalization Bounds of DNNs I | [note] | | CH19 of [T] |HW3 due, HW4 out|
-| 15 | 5/17 | Generalization Bounds of DNNs II | [note] | | CH21 of [T] ||
-| 16 | 5/19 | Generalization Bounds of DNNs III | [note] | | ||
+| 10 | 4/28 | NTK Analysis of DNNs II |[note](https://www.dropbox.com/s/coky1qomamnnhi8/Lecture%2010%20April%2028.pdf?dl=0) | | ||
+| 11 | 5/3 | Lazy Training |[note] | | |HW2 due, HW3 out|
+| 12 | 5/5 | Mean Field Analysis of DNNs I | [note] | | ||
+| 13 | 5/10 | Mean Field Analysis of DNNs II | [note] | | ||
+| 14 | 5/12 | Mean Field Analysis of DNNs IIII | [note] | | CH19 of [T] |HW3 due, HW4 out|
+| 15 | 5/17 | Generalization Bounds of DNNs I | [note] | | CH21 of [T] ||
+| 16 | 5/19 | Generalization Bounds of DNNs II | [note] | | ||
 | 17 | 5/24 | Benign Overfitting I | [note] | | |HW4 due, HW5 out|
 |  | 5/26 | Canceled due to NeurIPS | | | ||
 | 18 | 5/31 | Benign Overfitting II | [note] | | ||
