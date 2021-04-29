@@ -37,6 +37,7 @@ There is no required textbook. The following are recommended textbooks:
 1. [SHNGS] Soudry, D., Hoffer, E., Nacson, M. S., Gunasekar, S., & Srebro, N. (2018). The implicit bias of gradient descent on separable data. The Journal of Machine Learning Research, 19(1), 2822-2878.
 2. [GLSS] Gunasekar, S., Lee, J., Soudry, D., & Srebro, N. (2018, July). Characterizing implicit bias in terms of optimization geometry. In International Conference on Machine Learning (pp. 1832-1841). PMLR.
 3. [NLGSSS] Nacson, M. S., Lee, J., Gunasekar, S., Savarese, P. H. P., Srebro, N., & Soudry, D. (2019, April). Convergence of gradient descent on separable data. In 22nd International Conference on Artificial Intelligence and Statistics (pp. 3420-3428). PMLR.	
+4. [DZPS] Du, S. S., Zhai, X., Poczos, B., & Singh, A. (2019). Gradient descent provably optimizes over-parameterized neural networks. ICLR.
 
 
 ## Grading Policy
@@ -61,9 +62,9 @@ Grades will be computed based on the following factors:
 | 6 | 4/14 | Implicit Bias of Gradient Descent II| [note](https://www.dropbox.com/s/681c19aj09u2j7e/Lecture%206%20April%2014.pdf?dl=0) | | CH9 of [A],[GLSS,NLGSSS] ||
 | 7 | 4/19 | Clarke Subdifferential and Positive Homogeneity | [note](https://www.dropbox.com/s/vldpmpi2wwo14pl/Lecture%207%20April%2019.pdf?dl=0)| | CH14 of [T] |HW1 due|
 | 8 | 4/21 | Implicit Bias of Gradient Descent III | [note](https://www.dropbox.com/s/o6od1cse9y8xhpd/Lecture%208%20April%2021.pdf?dl=0) |  | CH15 of [T] |[HW2](https://www.dropbox.com/s/oxbpah4u28e3bmx/HW2.pdf?dl=0) out|
-| 9 | 4/26 | NTK Analysis of DNNs I | [note](https://www.dropbox.com/s/sptoel3owc12pvw/Lecture%209%20April%2026.pdf?dl=0) | | CH10 [A] ||
-| 10 | 4/28 | NTK Analysis of DNNs II |[note](https://www.dropbox.com/s/coky1qomamnnhi8/Lecture%2010%20April%2028.pdf?dl=0) | | ||
-| 11 | 5/3 | Lazy Training |[note] | | |HW2 due, HW3 out|
+| 9 | 4/26 | NTK Analysis of DNNs I | [note](https://www.dropbox.com/s/sptoel3owc12pvw/Lecture%209%20April%2026.pdf?dl=0) | | CH10 of [A], [DZPS]  ||
+| 10 | 4/28 | NTK Analysis of DNNs II |[note](https://www.dropbox.com/s/coky1qomamnnhi8/Lecture%2010%20April%2028.pdf?dl=0) | | CH10 of [A], [DZPS] ||
+| 11 | 5/3 | Lazy Training |[note] | | CH13 of [T] |HW2 due, HW3 out|
 | 12 | 5/5 | Mean Field Analysis of DNNs I | [note] | | ||
 | 13 | 5/10 | Mean Field Analysis of DNNs II | [note] | | ||
 | 14 | 5/12 | Mean Field Analysis of DNNs IIII | [note] | | CH19 of [T] |HW3 due, HW4 out|
