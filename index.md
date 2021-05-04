@@ -38,6 +38,12 @@ There is no required textbook. The following are recommended textbooks:
 2. [GLSS] Gunasekar, S., Lee, J., Soudry, D., & Srebro, N. (2018, July). Characterizing implicit bias in terms of optimization geometry. In International Conference on Machine Learning (pp. 1832-1841). PMLR.
 3. [NLGSSS] Nacson, M. S., Lee, J., Gunasekar, S., Savarese, P. H. P., Srebro, N., & Soudry, D. (2019, April). Convergence of gradient descent on separable data. In 22nd International Conference on Artificial Intelligence and Statistics (pp. 3420-3428). PMLR.	
 4. [DZPS] Du, S. S., Zhai, X., Poczos, B., & Singh, A. (2019). Gradient descent provably optimizes over-parameterized neural networks. ICLR.
+5. [MMN] Song, M., Montanari, A., & Nguyen, P. (2018). A mean field view of the landscape of two-layers neural networks. Proceedings of the National Academy of Sciences.
+6. [CB] Chizat, L., & Bach, F. (2018). On the global convergence of gradient descent for over-parameterized models using optimal transport. arXiv preprint arXiv:1805.09545.
+7. [FDZ] Fang, C., Dong, H., & Zhang, T. (2019). Over parameterized two-level neural networks can learn near optimal feature representations. arXiv preprint arXiv:1910.11508.
+8. [BLLT] Bartlett, P. L., Long, P. M., Lugosi, G., & Tsigler, A. (2020). Benign overfitting in linear regression. Proceedings of the National Academy of Sciences, 117(48), 30063-30070.
+9. [ZWBGK] Zou, D., Wu, J., Braverman, V., Gu, Q., & Kakade, S. M. (2021). Benign Overfitting of Constant-Stepsize SGD for Linear Regression. arXiv preprint arXiv:2103.12692.
+	
 
 
 ## Grading Policy
@@ -62,18 +68,18 @@ Grades will be computed based on the following factors:
 | 6 | 4/14 | Implicit Bias of Gradient Descent II| [note](https://www.dropbox.com/s/681c19aj09u2j7e/Lecture%206%20April%2014.pdf?dl=0) | | CH9 of [A],[GLSS,NLGSSS] ||
 | 7 | 4/19 | Clarke Subdifferential and Positive Homogeneity | [note](https://www.dropbox.com/s/vldpmpi2wwo14pl/Lecture%207%20April%2019.pdf?dl=0)| | CH14 of [T] |HW1 due|
 | 8 | 4/21 | Implicit Bias of Gradient Descent III | [note](https://www.dropbox.com/s/o6od1cse9y8xhpd/Lecture%208%20April%2021.pdf?dl=0) |  | CH15 of [T] |[HW2](https://www.dropbox.com/s/oxbpah4u28e3bmx/HW2.pdf?dl=0) out|
-| 9 | 4/26 | NTK Analysis of DNNs I | [note](https://www.dropbox.com/s/sptoel3owc12pvw/Lecture%209%20April%2026.pdf?dl=0) | | CH10 of [A], [DZPS]  ||
-| 10 | 4/28 | NTK Analysis of DNNs II |[note](https://www.dropbox.com/s/coky1qomamnnhi8/Lecture%2010%20April%2028.pdf?dl=0) | | CH10 of [A], [DZPS] ||
-| 11 | 5/3 | Lazy Training |[note] | | CH13 of [T] |HW2 due, HW3 out|
-| 12 | 5/5 | Mean Field Analysis of DNNs I | [note] | | ||
-| 13 | 5/10 | Mean Field Analysis of DNNs II | [note] | | ||
-| 14 | 5/12 | Mean Field Analysis of DNNs IIII | [note] | | CH19 of [T] |HW3 due, HW4 out|
-| 15 | 5/17 | Generalization Bounds of DNNs I | [note] | | CH21 of [T] ||
-| 16 | 5/19 | Generalization Bounds of DNNs II | [note] | | ||
-| 17 | 5/24 | Benign Overfitting I | [note] | | |HW4 due, HW5 out|
+| 9 | 4/26 | NTK Analysis of NNs I | [note](https://www.dropbox.com/s/sptoel3owc12pvw/Lecture%209%20April%2026.pdf?dl=0) | | CH10 of [A], [DZPS]  ||
+| 10 | 4/28 | NTK Analysis of NNs II |[note](https://www.dropbox.com/s/coky1qomamnnhi8/Lecture%2010%20April%2028.pdf?dl=0) | | CH10 of [A], [DZPS] ||
+| 11 | 5/3 | Lazy Training |[note](https://www.dropbox.com/s/jgpjkmtyip42oz9/Lecture%2011%20May%203.pdf?dl=0) | | CH13 of [T] |HW2 due, HW3 out|
+| 12 | 5/5 | Mean Field Analysis of NNs I | [note] | | [MMN][FDZ] ||
+| 13 | 5/10 | Mean Field Analysis of NNs II | [note] |  | [MMN][FDZ] ||
+| 14 | 5/12 | Mean Field Analysis of NNs III | [note] | | [MMN][FDZ] |HW3 due, HW4 out|
+| 15 | 5/17 | Generalization Bounds of DNNs I | [note] | | CH19 of [T] ||
+| 16 | 5/19 | Generalization Bounds of DNNs II | [note] | | CH21 of [T] ||
+| 17 | 5/24 | Benign Overfitting I | [note] | | [BLLT] |HW4 due, HW5 out|
 |  | 5/26 | Canceled due to NeurIPS | | | ||
-| 18 | 5/31 | Benign Overfitting II | [note] | | ||
-| 19 | 6/2 | Benign Overfitting III | [note] | | |HW5 due|
+| 18 | 5/31 | Benign Overfitting II | [note] | | [BLLT] ||
+| 19 | 6/2 | Benign Overfitting III | [note] | | [BLLT] |HW5 due|
 
 ## Academic Integrity Policy
 
