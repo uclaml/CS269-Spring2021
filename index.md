@@ -109,15 +109,9 @@ The paper presentation will start from week 5.
 
 Both the instructor and other students will grade the presentation (no self-grading). We will provide the detailed grading criteria later.
 
-### List of recommended papers:
+- The list of papers for presentation can be found at [here](https://docs.google.com/spreadsheets/d/1ErLN_ClrOi2N0LvfWj8j28uX2wqivN1gVWovehX77g8/edit?usp=sharing).
 
-1. Eldan, R., & Shamir, O. (2016, June). The power of depth for feedforward neural networks. In COLT.
-2. Gunasekar, S., Woodworth, B., Bhojanapalli, S., Neyshabur, B., & Srebro, N. (2018, February). Implicit regularization in matrix factorization. In NeurIPS.
-3. Lyu, K., & Li, J. (2019). Gradient descent maximizes the margin of homogeneous neural networks. In ICLR.
-4. Arora, S., Cohen, N., Hu, W., & Luo, Y. (2019). Implicit regularization in deep matrix factorization. In NeurIPS.
-5. Ji, Z., & Telgarsky, M. (2020). Directional convergence and alignment in deep learning. In NeurIPS.
-6. Woodworth, B., Gunasekar, S., Lee, J. D., Moroshko, E., Savarese, P., Golan, I., ... & Srebro, N. (2020, July). Kernel and rich regimes in overparametrized models. In COLT.
-7. Moroshko, E., Gunasekar, S., Woodworth, B., Lee, J. D., Srebro, N., & Soudry, D. (2020). Implicit bias in deep linear classification: Initialization scale vs training accuracy. In NeurIPS.
+
 
 
 ## Project
