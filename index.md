@@ -71,9 +71,9 @@ Grades will be computed based on the following factors:
 | 9 | 4/26 | NTK Analysis of NNs I | [note](https://www.dropbox.com/s/sptoel3owc12pvw/Lecture%209%20April%2026.pdf?dl=0) | | CH10 of [A], [DZPS]  ||
 | 10 | 4/28 | NTK Analysis of NNs II |[note](https://www.dropbox.com/s/coky1qomamnnhi8/Lecture%2010%20April%2028.pdf?dl=0) | | CH10 of [A], [DZPS] ||
 | 11 | 5/3 | Lazy Training |[note](https://www.dropbox.com/s/jgpjkmtyip42oz9/Lecture%2011%20May%203.pdf?dl=0) | | CH13 of [T] |HW2 due, HW3 out|
-| 12 | 5/5 | Mean Field Analysis of NNs I | [note] | | [MMN][FDZ] ||
-| 13 | 5/10 | Mean Field Analysis of NNs II | [note] |  | [MMN][FDZ] ||
-| 14 | 5/12 | Mean Field Analysis of NNs III | [note] | | [MMN][FDZ] |HW3 due, HW4 out|
+| 12 | 5/5 | Mean Field Analysis of NNs I | [note](https://www.dropbox.com/s/jw2jxhc28u64hhi/Lecture%2012%20May%205.pdf?dl=0) | | [FDZ][MMN] ||
+| 13 | 5/10 | Mean Field Analysis of NNs II | [note] |  | [FDZ][MMN] ||
+| 14 | 5/12 | Mean Field Analysis of NNs III | [note] | | [FDZ][MMN] |HW3 due, HW4 out|
 | 15 | 5/17 | Generalization Bounds of DNNs I | [note] | | CH19 of [T] ||
 | 16 | 5/19 | Generalization Bounds of DNNs II | [note] | | CH21 of [T] ||
 | 17 | 5/24 | Benign Overfitting I | [note] | | [BLLT] |HW4 due, HW5 out|
@@ -121,7 +121,7 @@ Students are required to do a project in this class. The goal of the course proj
 - A novel and sound solution to an interesting problem
 - Thorough theoretical analysis of existing deep learning approaches
 
-The best outcome of the project is a manuscript that is publishable in major machine learning conferences (COLT, ICML, NeurIPS, ICLR, AISTATS, UAI etc.) or journals (Journal of Machine Learning Research). The detailed course project guideline can be found at here. **Students cannot use their own published work as the course project.**
+The best outcome of the project is a manuscript that is publishable in major machine learning conferences (COLT, ICML, NeurIPS, ICLR, AISTATS, UAI etc.) or journals (Journal of Machine Learning Research). The detailed course project guideline can be found at [here](https://www.dropbox.com/s/2o0hht6qjijjbog/Course%20project.pdf?dl=0). **Students cannot use their own published work as the course project.**
 
 
 ## Relevant Courses
