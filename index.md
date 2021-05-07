@@ -50,7 +50,7 @@ There is no required textbook. The following are recommended textbooks:
  
 Grades will be computed based on the following factors:
 
-- Lecture Note Scribing 10%
+- Lecture Note Scribe 10%
 - Homework 40%
 - Paper Presentation 10%
 - Project 40%
@@ -60,15 +60,15 @@ Grades will be computed based on the following factors:
 
 | # | Date  | Topic  | note | scribed note | reading materials  | homework |
 |----|----|----|----|----|----|----|
-| 1 | 3/29 | Introduction  | [note](https://www.dropbox.com/s/481ak9zj6bxfcoy/Lecture%201%20March%2029.pdf?dl=0) | [scribed note](https://www.dropbox.com/sh/dsnk0z7b73544r8/AAABp1oZvkab9fZz7S67M0s0a?dl=0) | CH0-1 of [T] ||
-| 2 | 3/31 | Approximation I | [note](https://www.dropbox.com/s/rw6b28hyen8x1iu/Lecture%202%20March%2031.pdf?dl=0) | [scribed note](https://www.dropbox.com/s/8jg5bltoknz0luf/Lecture2.pdf?dl=0) | CH2-3 of [T] ||
-| 3 | 4/5 | Approximation II | [note](https://www.dropbox.com/s/r0vmou4xvmof8vc/Lecture%203%20April%205.pdf?dl=0) | [scribed note](https://www.dropbox.com/s/uvi3w6s8drz2beh/Lecture3.pdf?dl=0) | CH3-4 of [T] |
-| 4 | 4/7 | Approximation III | [note](https://www.dropbox.com/s/om7ear4qad28txd/Lecture%204%20April%207.pdf?dl=0) |  [scribed note](https://www.dropbox.com/s/m1bmxr9urt9qgvg/Lecture4.pdf?dl=0)| CH4-5 of [T] |[HW1](https://www.dropbox.com/s/hn2j0o6oqziwubk/HW1.pdf?dl=0) out|
-| 5 | 4/12 | Implicit Bias of Gradient Descent I | [note](https://www.dropbox.com/s/17nexzucqiph2qn/Lecture%205%20April%2012.pdf?dl=0) | [scribed note](https://www.dropbox.com/s/rggfd1qla2dacrd/lecture5.pdf?dl=0) | CH9 of [A],[SHNGS] ||
-| 6 | 4/14 | Implicit Bias of Gradient Descent II| [note](https://www.dropbox.com/s/681c19aj09u2j7e/Lecture%206%20April%2014.pdf?dl=0) | [scribed note](https://www.dropbox.com/s/rarsgy731s5g8vz/lecture6.pdf?dl=0)| CH9 of [A],[GLSS,NLGSSS] ||
-| 7 | 4/19 | Clarke Subdifferential and Positive Homogeneity | [note](https://www.dropbox.com/s/vldpmpi2wwo14pl/Lecture%207%20April%2019.pdf?dl=0)| [scribed note](https://www.dropbox.com/s/9t2859vjjs8s0os/lecture7.pdf?dl=0) | CH14 of [T] |HW1 due|
+| 1 | 3/29 | Introduction  | [note](https://www.dropbox.com/s/481ak9zj6bxfcoy/Lecture%201%20March%2029.pdf?dl=0) | [scribe note](https://www.dropbox.com/sh/dsnk0z7b73544r8/AAABp1oZvkab9fZz7S67M0s0a?dl=0) | CH0-1 of [T] ||
+| 2 | 3/31 | Approximation I | [note](https://www.dropbox.com/s/rw6b28hyen8x1iu/Lecture%202%20March%2031.pdf?dl=0) | [scribe note](https://www.dropbox.com/s/8jg5bltoknz0luf/Lecture2.pdf?dl=0) | CH2-3 of [T] ||
+| 3 | 4/5 | Approximation II | [note](https://www.dropbox.com/s/r0vmou4xvmof8vc/Lecture%203%20April%205.pdf?dl=0) | [scribe note](https://www.dropbox.com/s/uvi3w6s8drz2beh/Lecture3.pdf?dl=0) | CH3-4 of [T] |
+| 4 | 4/7 | Approximation III | [note](https://www.dropbox.com/s/om7ear4qad28txd/Lecture%204%20April%207.pdf?dl=0) |  [scribe note](https://www.dropbox.com/s/m1bmxr9urt9qgvg/Lecture4.pdf?dl=0)| CH4-5 of [T] |[HW1](https://www.dropbox.com/s/hn2j0o6oqziwubk/HW1.pdf?dl=0) out|
+| 5 | 4/12 | Implicit Bias of Gradient Descent I | [note](https://www.dropbox.com/s/17nexzucqiph2qn/Lecture%205%20April%2012.pdf?dl=0) | [scribe note](https://www.dropbox.com/s/rggfd1qla2dacrd/lecture5.pdf?dl=0) | CH9 of [A],[SHNGS] ||
+| 6 | 4/14 | Implicit Bias of Gradient Descent II| [note](https://www.dropbox.com/s/681c19aj09u2j7e/Lecture%206%20April%2014.pdf?dl=0) | [scribe note](https://www.dropbox.com/s/rarsgy731s5g8vz/lecture6.pdf?dl=0)| CH9 of [A],[GLSS,NLGSSS] ||
+| 7 | 4/19 | Clarke Subdifferential and Positive Homogeneity | [note](https://www.dropbox.com/s/vldpmpi2wwo14pl/Lecture%207%20April%2019.pdf?dl=0)| [scribe note](https://www.dropbox.com/s/9t2859vjjs8s0os/lecture7.pdf?dl=0) | CH14 of [T] |HW1 due|
 | 8 | 4/21 | Implicit Bias of Gradient Descent III | [note](https://www.dropbox.com/s/o6od1cse9y8xhpd/Lecture%208%20April%2021.pdf?dl=0) |  | CH15 of [T] |[HW2](https://www.dropbox.com/s/oxbpah4u28e3bmx/HW2.pdf?dl=0) out|
-| 9 | 4/26 | NTK Analysis of NNs I | [note](https://www.dropbox.com/s/sptoel3owc12pvw/Lecture%209%20April%2026.pdf?dl=0) | [scribed note](https://www.dropbox.com/s/mubi3ll3hs08d6c/lecture9.pdf?dl=0) | CH10 of [A], [DZPS]  ||
+| 9 | 4/26 | NTK Analysis of NNs I | [note](https://www.dropbox.com/s/sptoel3owc12pvw/Lecture%209%20April%2026.pdf?dl=0) | [scribe note](https://www.dropbox.com/s/mubi3ll3hs08d6c/lecture9.pdf?dl=0) | CH10 of [A], [DZPS]  ||
 | 10 | 4/28 | NTK Analysis of NNs II |[note](https://www.dropbox.com/s/coky1qomamnnhi8/Lecture%2010%20April%2028.pdf?dl=0) | | CH10 of [A], [DZPS] ||
 | 11 | 5/3 | Lazy Training |[note](https://www.dropbox.com/s/jgpjkmtyip42oz9/Lecture%2011%20May%203.pdf?dl=0) | | CH13 of [T] |HW2 due, HW3 out|
 | 12 | 5/5 | Mean Field Analysis of NNs I | [note](https://www.dropbox.com/s/jw2jxhc28u64hhi/Lecture%2012%20May%205.pdf?dl=0) | | [FDZ][MMN] ||
