@@ -73,7 +73,7 @@ Grades will be computed based on the following factors:
 | 11 | 5/3 | Lazy Training |[note](https://www.dropbox.com/s/jgpjkmtyip42oz9/Lecture%2011%20May%203.pdf?dl=0) | | CH13 of [T] |HW2 due|
 | 12 | 5/5 | Mean Field Analysis of NNs I | [note](https://www.dropbox.com/s/jw2jxhc28u64hhi/Lecture%2012%20May%205.pdf?dl=0) | | [FDZ][MMN] ||
 | 13 | 5/10 | Mean Field Analysis of NNs II | [note](https://www.dropbox.com/s/arj8zmc1ytir4yp/Lecture%2013%20May%2010.pdf?dl=0) |  | [FDZ][MMN] |[HW3](https://www.dropbox.com/s/rn0xclqfyfowmn6/HW3.pdf?dl=0) out|
-| 14 | 5/12 | Mean Field Analysis of NNs III | [note] | | [FDZ][MMN] ||
+| 14 | 5/12 | Mean Field Analysis of NNs III | [note](https://www.dropbox.com/s/cr7xugbmuvde9kn/Lecture%2014%20May%2012.pdf?dl=0) | | [FDZ][MMN] ||
 | 15 | 5/17 | Generalization Bounds of DNNs I | [note] | | CH19 of [T] ||
 | 16 | 5/19 | Generalization Bounds of DNNs II | [note] | | CH21 of [T] |HW3 due, HW4 out|
 | 17 | 5/24 | Benign Overfitting I | [note] | | [BLLT] ||
