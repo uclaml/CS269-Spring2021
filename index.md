@@ -77,8 +77,8 @@ Grades will be computed based on the following factors:
 | 15 | 5/17 | Generalization Bounds of DNNs I | [note] | | CH19 of [T] ||
 | 16 | 5/19 | Generalization Bounds of DNNs II | [note] | | CH21 of [T] |HW3 due, HW4 out|
 | 17 | 5/24 | Benign Overfitting I | [note] | | [BLLT] ||
-|  | 5/26 | Canceled due to NeurIPS | | | |HW4 due, HW5 out|
-| 18 | 5/31 | Benign Overfitting II | [note] | | [BLLT] ||
+| 18 | 5/26 | Benign Overfitting II | [note] | | [BLLT] |HW4 due, HW5 out|
+|  | 5/31 | Memorial Day Holiday |  | |  ||
 | 19 | 6/2 | Benign Overfitting III | [note] | | [BLLT] ||
 |  | 6/7 |  |  | |  |HW5 due|
 
