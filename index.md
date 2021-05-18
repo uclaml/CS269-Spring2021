@@ -39,10 +39,10 @@ There is no required textbook. The following are recommended textbooks:
 3. [NLGSSS] Nacson, M. S., Lee, J., Gunasekar, S., Savarese, P. H. P., Srebro, N., & Soudry, D. (2019, April). Convergence of gradient descent on separable data. In 22nd International Conference on Artificial Intelligence and Statistics (pp. 3420-3428). PMLR.	
 4. [DZPS] Du, S. S., Zhai, X., Poczos, B., & Singh, A. (2019). Gradient descent provably optimizes over-parameterized neural networks. ICLR.
 5. [MMN] Song, M., Montanari, A., & Nguyen, P. (2018). A mean field view of the landscape of two-layers neural networks. Proceedings of the National Academy of Sciences.
-6. [CB] Chizat, L., & Bach, F. (2018). On the global convergence of gradient descent for over-parameterized models using optimal transport. arXiv preprint arXiv:1805.09545.
+6. [CB] Chizat, L., & Bach, F. (2018). On the global convergence of gradient descent for over-parameterized models using optimal transport. In NeurIPS.
 7. [FDZ] Fang, C., Dong, H., & Zhang, T. (2019). Over parameterized two-level neural networks can learn near optimal feature representations. arXiv preprint arXiv:1910.11508.
 8. [BLLT] Bartlett, P. L., Long, P. M., Lugosi, G., & Tsigler, A. (2020). Benign overfitting in linear regression. Proceedings of the National Academy of Sciences, 117(48), 30063-30070.
-9. [ZWBGK] Zou, D., Wu, J., Braverman, V., Gu, Q., & Kakade, S. M. (2021). Benign Overfitting of Constant-Stepsize SGD for Linear Regression. arXiv preprint arXiv:2103.12692.
+9. [ZWBGK] Zou, D., Wu, J., Braverman, V., Gu, Q., & Kakade, S. M. (2021). Benign Overfitting of Constant-Stepsize SGD for Linear Regression. In COLT.
 	
 
 
@@ -74,11 +74,11 @@ Grades will be computed based on the following factors:
 | 12 | 5/5 | Mean Field Analysis of NNs I | [note](https://www.dropbox.com/s/jw2jxhc28u64hhi/Lecture%2012%20May%205.pdf?dl=0) | | [FDZ][MMN] ||
 | 13 | 5/10 | Mean Field Analysis of NNs II | [note](https://www.dropbox.com/s/arj8zmc1ytir4yp/Lecture%2013%20May%2010.pdf?dl=0) |  | [FDZ][MMN] |[HW3](https://www.dropbox.com/s/rn0xclqfyfowmn6/HW3.pdf?dl=0) out|
 | 14 | 5/12 | Mean Field Analysis of NNs III | [note](https://www.dropbox.com/s/cr7xugbmuvde9kn/Lecture%2014%20May%2012.pdf?dl=0) | | [FDZ][MMN] ||
-| 15 | 5/17 | Generalization Bounds of DNNs I | [note] | | CH19 of [T] ||
+| 15 | 5/17 | Generalization Bounds of DNNs I | [note](https://www.dropbox.com/s/vos4cageg1c7t9w/Lecture%2015%20May%2017.pdf?dl=0) | | CH19 of [T] ||
 | 16 | 5/19 | Generalization Bounds of DNNs II | [note] | | CH21 of [T] |HW3 due, HW4 out|
 | 17 | 5/24 | Benign Overfitting I | [note] | | [BLLT] ||
-| 18 | 5/26 | Benign Overfitting II | [note] | | [BLLT] |HW4 due, HW5 out|
-|  | 5/31 | Memorial Day Holiday |  | |  ||
+| 18 | 5/26 | Benign Overfitting II | [note] | | [BLLT] ||
+|  | 5/31 | Memorial Day Holiday |  | |  |HW4 due, HW5 out|
 | 19 | 6/2 | Benign Overfitting III | [note] | | [BLLT] ||
 |  | 6/7 |  |  | |  |HW5 due|
 
