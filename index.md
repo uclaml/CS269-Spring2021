@@ -75,11 +75,11 @@ Grades will be computed based on the following factors:
 | 13 | 5/10 | Mean Field Analysis of NNs II | [note](https://www.dropbox.com/s/arj8zmc1ytir4yp/Lecture%2013%20May%2010.pdf?dl=0) |  | [FDZ][MMN] |[HW3](https://www.dropbox.com/s/rn0xclqfyfowmn6/HW3.pdf?dl=0) out|
 | 14 | 5/12 | Mean Field Analysis of NNs III | [note](https://www.dropbox.com/s/cr7xugbmuvde9kn/Lecture%2014%20May%2012.pdf?dl=0) | | [FDZ][MMN] ||
 | 15 | 5/17 | Generalization Bounds of DNNs I | [note](https://www.dropbox.com/s/vos4cageg1c7t9w/Lecture%2015%20May%2017.pdf?dl=0) | | CH19 of [T] ||
-| 16 | 5/19 | Generalization Bounds of DNNs II | [note] | | CH21 of [T] |HW3 due, HW4 out|
-| 17 | 5/24 | Benign Overfitting I | [note] | | [BLLT] ||
-| 18 | 5/26 | Benign Overfitting II | [note] | | [BLLT] ||
+| 16 | 5/19 | Generalization Bounds of DNNs II | [note](https://www.dropbox.com/s/pyhk2vne2ul67gh/Lecture%2016%20May%2019.pdf?dl=0) | | CH21 of [T] |HW3 due, [HW4](https://www.dropbox.com/s/6v8ur35whn12505/HW4.pdf?dl=0) out|
+| 17 | 5/24 | Generalization Bounds of DNNs III | [note] | | CH21 of [T] ||
+| 18 | 5/26 | Benign Overfitting I | [note] | | [BLLT] ||
 |  | 5/31 | Memorial Day Holiday |  | |  |HW4 due, HW5 out|
-| 19 | 6/2 | Benign Overfitting III | [note] | | [BLLT] ||
+| 19 | 6/2 | Benign Overfitting II | [note] | | [BLLT] ||
 |  | 6/7 |  |  | |  |HW5 due|
 
 ## Academic Integrity Policy
