@@ -78,9 +78,9 @@ Grades will be computed based on the following factors:
 | 16 | 5/19 | Generalization Bounds of DNNs II | [note](https://www.dropbox.com/s/pyhk2vne2ul67gh/Lecture%2016%20May%2019.pdf?dl=0) | | CH21 of [T] |HW3 due, [HW4](https://www.dropbox.com/s/6v8ur35whn12505/HW4.pdf?dl=0) out|
 | 17 | 5/24 | Generalization Bounds of DNNs III | [note](https://www.dropbox.com/s/txyce90s9xgie9x/Lecture%2017%20May%2024.pdf?dl=0) | | CH21 of [T] ||
 | 18 | 5/26 | Paper Presenation |  | |  ||
-|  | 5/31 | Memorial Day Holiday |  | |  |HW4 due, HW5 out|
+|  | 5/31 | Memorial Day Holiday |  | |  |HW4 due, [HW5](https://www.dropbox.com/s/t4u9faqquruaxze/HW5.pdf?dl=0) out|
 | 19 | 6/2 | Generalization Bounds of DNNs IV | [note] | | CH21 of [T] ||
-|  | 6/7 |  |  | |  |HW5 due|
+|  | 6/11 |  |  | |  |HW5 due|
 
 ## Academic Integrity Policy
 
