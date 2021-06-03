@@ -79,7 +79,7 @@ Grades will be computed based on the following factors:
 | 17 | 5/24 | Generalization Bounds of DNNs III | [note](https://www.dropbox.com/s/txyce90s9xgie9x/Lecture%2017%20May%2024.pdf?dl=0) | | CH21 of [T] ||
 | 18 | 5/26 | Paper Presenation |  | |  ||
 |  | 5/31 | Memorial Day Holiday |  | |  |HW4 due, [HW5](https://www.dropbox.com/s/t4u9faqquruaxze/HW5.pdf?dl=0) out|
-| 19 | 6/2 | Generalization Bounds of DNNs IV | [note] | | CH21 of [T] ||
+| 19 | 6/2 | Generalization Bounds of DNNs IV | [note](https://www.dropbox.com/s/v3j0rqphmo4cq9x/Lecture%2018%20June%202.pdf?dl=0) | | CH21 of [T] ||
 |  | 6/11 |  |  | |  |HW5 due|
 
 ## Academic Integrity Policy
