@@ -6,7 +6,7 @@
 Deep learning has achieved great success in many applications such as image processing, speech recognition and Go games. However, the reason why deep learning is so powerful remains elusive. The goal of this course is to understand the successes of deep learning by studying and building the theoretical foundations of deep learning. Topics covered by this course include but are not limited to: approximation power of neural networks, optimization for deep learning, generalization error analysis of deep learning and benign-overfitting of overparamterized learning models. Instructor will give lectures the selected topics. Students will present and discuss papers on the reading list, and do a course project.
 
 ## Prerequisites
-Two years of college mathematics, including calculus, linear algebra, probability and statistics, and the ability to write computer programs. CS 260 or an equivalent course.
+CS 260A, STAT 200A and 220B, ECE 236B and 236C, or equivalent courses.
 
 ## Logistics
 
